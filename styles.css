@@ -1,0 +1,11 @@
+:root {
+    --primary-color: #8299ff;
+    --secondary-color: #525354;
+    --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+  }
+
+body {
+    background-color: #8299ff;
+}
+
+ 
